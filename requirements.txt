@@ -1,5 +1,0 @@
-undetected-chromedriver
-pandas
-pdfplumber
-selenium
-setuptools
